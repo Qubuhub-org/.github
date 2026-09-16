@@ -158,7 +158,7 @@ graph TD
 
 ## 📈 Development Workflow
 
-```
+```svg
 ┌──────────────────────────────────────────────────────────────┐
 │                   DEVELOPMENT PIPELINE                        │
 ├──────────────────────────────────────────────────────────────┤
@@ -177,7 +177,7 @@ graph TD
 
 ## 🤝 How to Get Involved
 
-```
+```svg
 START HERE ──→ Choose Your Path ──→ Contribute ──→ Level Up!
                       ↓
         ┌─────────────┼─────────────┐
@@ -282,7 +282,7 @@ Experienced professionals with backgrounds in:
 
 [![Website](https://img.shields.io/badge/Website-qubuhub.org-667eea?style=for-the-badge&logo=globe)](https://qubuhub.org)
 [![GitHub](https://img.shields.io/badge/GitHub-Qubuhub--org-000000?style=for-the-badge&logo=github)](https://github.com/Qubuhub-org)
-[![Email](https://img.shields.io/badge/Email-hello%40qubuhub.org-764ba2?style=for-the-badge&logo=gmail)](mailto:hello@qubuhub.org)
+[![Email](https://img.shields.io/badge/Email-hello%40qubuhub.org-764ba2?style=for-the-badge&logo=gmail)](mailto:web4@qubuhub.org)
 [![Twitter](https://img.shields.io/badge/Twitter-%40Qubuhub-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Qubuhub)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/qubuhub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/qubuhub)
@@ -301,7 +301,7 @@ We are committed to providing a welcoming and inspiring community for all. Pleas
 
 ## 📜 License Information
 
-```
+```txt
 All Qubuhub projects are licensed under various open-source licenses:
 ├── MIT License (Most Projects)
 ├── Apache 2.0 (Blockchain Protocols)
@@ -350,7 +350,7 @@ We extend our gratitude to:
 
 <div align="center">
 
-![Footer Banner](https://via.placeholder.com/1200x200/667eea/ffffff?text=Building+the+Future+of+Web3)
+![Footer Banner](https://via.placeholder.com/1200x200/667eea/ffffff?text=Building+the+Future+of+Web4)
 
 **Made with ❤️ by the Qubuhub Community**
 
